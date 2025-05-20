@@ -50,11 +50,6 @@ const ProjectCard: React.FC<ProjectCardProps> = ({
             </span>
           ))}
         </div>
-        <div className="flex justify-end">
-          <button className="text-indigo-600 dark:text-indigo-400 font-medium hover:underline focus:outline-none">
-            View Details
-          </button>
-        </div>
       </div>
     </motion.div>
   );
