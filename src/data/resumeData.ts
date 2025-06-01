@@ -48,42 +48,47 @@ export const projects: ProjectType[] = [
     title: "Student Organizer Event Portal with Chatbot Integration",
     description: "Developed a full-stack event portal with chatbot integration for match-making features between event participants and organizer management. Integrated DialogFlow AI chatbot for event queries and assistance. Added personalized dashboards and a gamified leaderboard to drive engagement.",
     technologies: ["HTML", "CSS", "JavaScript", "Bootstrap", "MongoDB", "DialogFlow"],
-    imageUrl: "https://images.pexels.com/photos/433452/pexels-photo-433452.jpeg?auto=compress&cs=tinysrgb&w=600"
-  },
+    imageUrl: "https://images.pexels.com/photos/433452/pexels-photo-433452.jpeg?auto=compress&cs=tinysrgb&w=600",
+    link: "https://github.com/devaamsh2006/Webathon.git"
   {
     id: 2,
-    title: "Word Guessing Game",
-    description: "Created an interactive word guessing game where players try to identify a hidden word within a limited number of attempts. Incorporated various difficulty levels to test problem-solving skills, showcasing core Python logic and string manipulation techniques.",
-    technologies: ["Python"],
-    imageUrl: "https://images.pexels.com/photos/278918/pexels-photo-278918.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    title: "CNG Pumps Near Me",
+    description: "A web app that shows nearby CNG pumps using your location and manual pump information.",
+    technologies:["HTML", "CSS", "JavaScript", "Tailwind CSS"],
+    imageUrl: "https://images.pexels.com/photos/12799788/pexels-photo-12799788.jpeg?auto=compress&cs=tinysrgb&w=600",
+    link: " https://haindavi3009.github.io/cngpumps/" 
   },
   {
     id: 3,
     title: "Tennis Prediction Model",
     description: "Developed a machine learning model to predict the winner between any two tennis players using historical match data and player statistics. Extracted and processed data using Pandas, engineered relevant features, and trained classification models with Scikit-learn. Integrated the model into a user-friendly web application.",
     technologies: ["Python", "Scikit-learn", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Jupyter/Notebook", "Flask"],
-    imageUrl: "https://images.pexels.com/photos/7567233/pexels-photo-7567233.jpeg?auto=compress&cs=tinysrgb&w=600"
+    imageUrl: "https://images.pexels.com/photos/7567233/pexels-photo-7567233.jpeg?auto=compress&cs=tinysrgb&w=600",
+    link: "https://your-live-project-link-or-github.com" 
   },
   {
     id: 4,
     title: "Naruto Click Discover",
     description: " Displays 23 Naruto characters in a clickable grid layout.On click, shows the character's image and a memorable quote.Uses JavaScript to manage interactions and display character data dynamically..",
     technologies: [ "HTML", "CSS", "JavaScript"],
-    imageUrl: "https://cdn.pixabay.com/photo/2018/10/19/05/12/naruto-3757871_1280.jpg"
+    imageUrl: "https://cdn.pixabay.com/photo/2018/10/19/05/12/naruto-3757871_1280.jpg",
+    link: "https://haindavi3009.github.io/Naruto-Click-Discover/" 
   },
   {
     id: 5,
     title: "Web-Based Portfolio Platform",
     description: "Designed a responsive and interactive portfolio website to showcase my achievements and skills. The project includes a detailed view with descriptions and technologies used. Ensured cross-device compatibility with a mobile-first design approach.",
     technologies: ["HTML", "CSS", "JavaScript", "React", "Node.js"],
-    imageUrl: "https://images.pexels.com/photos/326503/pexels-photo-326503.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    imageUrl: "https://images.pexels.com/photos/326503/pexels-photo-326503.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    link: "https://haindavi3009.github.io/my-portfolio/" 
   },
   {
     id: 6,
     title: "Table Tennis Score Keeper",
     description: "Allows users to keep track of points, games, and set scores for a table tennis match.Real-time score updates with the ability to increment points for each player and Option to reset the scores and start a new match.",
     technologies: ["HTML", "CSS", "JavaScript"],
-    imageUrl: "https://images.pexels.com/photos/209977/pexels-photo-209977.jpeg?auto=compress&cs=tinysrgb&w=600"
+    imageUrl: "https://images.pexels.com/photos/209977/pexels-photo-209977.jpeg?auto=compress&cs=tinysrgb&w=600",
+    link: "https://haindavi3009.github.io/Table-Tennis-Scorekeeper/" 
   }
 ];
 
