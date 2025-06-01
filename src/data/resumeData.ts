@@ -50,13 +50,14 @@ export const projects: ProjectType[] = [
     technologies: ["HTML", "CSS", "JavaScript", "Bootstrap", "MongoDB", "DialogFlow"],
     imageUrl: "https://images.pexels.com/photos/433452/pexels-photo-433452.jpeg?auto=compress&cs=tinysrgb&w=600",
     link: "https://github.com/devaamsh2006/Webathon.git"
+  },
   {
     id: 2,
     title: "CNG Pumps Near Me",
     description: "A web app that shows nearby CNG pumps using your location and manual pump information.",
     technologies:["HTML", "CSS", "JavaScript", "Tailwind CSS"],
     imageUrl: "https://images.pexels.com/photos/12799788/pexels-photo-12799788.jpeg?auto=compress&cs=tinysrgb&w=600",
-    link: " https://haindavi3009.github.io/cngpumps/" 
+    link: "https://vivicng.netlify.app/" 
   },
   {
     id: 3,
