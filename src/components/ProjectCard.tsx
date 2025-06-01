@@ -50,14 +50,15 @@ const ProjectCard: React.FC<ProjectCardProps> = ({
             </span>
           ))}
         </div>
-        <a
-            href={project.link}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-indigo-600 dark:text-indigo-400 font-medium hover:underline"
-        >
-          Open Project →
-        </a>
+<a
+    href={project.link}
+    target="_blank"
+    rel="noopener noreferrer"
+    className="text-indigo-600 dark:text-indigo-400 font-medium hover:underline"
+>
+  Open Project →
+</a>
+
       </div>
     </motion.div>
   );
